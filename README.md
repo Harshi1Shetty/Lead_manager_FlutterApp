@@ -19,7 +19,7 @@ This is a mini-application designed to manage sales or business leads. Key featu
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Harshi1Shetty/Lead_manager_FlutterApp.git
     cd lead_manager
     ```
 
