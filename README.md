@@ -17,14 +17,7 @@ This is a mini-application designed to manage sales or business leads. Key featu
 
 ## Demo
 
-
-
-```html
-<video controls width="720">
-  <source src="https://raw.githubusercontent.com/Harshi1Shetty/Lead_manager_FlutterApp/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
+https://github.com/user-attachments/assets/6a7e3329-f2b3-4015-80da-b9d28ce61f85
 
 
 ## How to Run
