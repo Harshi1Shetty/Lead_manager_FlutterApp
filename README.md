@@ -21,7 +21,7 @@ This is a mini-application designed to manage sales or business leads. Key featu
 
 ```html
 <video controls width="720">
-  <source src="https://raw.githubusercontent.com/Harshi1Shetty/Lead_manager_FlutterApp/main/assets/demo.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/Harshi1Shetty/Lead_manager_FlutterApp/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ```
