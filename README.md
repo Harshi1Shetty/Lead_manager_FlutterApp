@@ -15,6 +15,18 @@ This is a mini-application designed to manage sales or business leads. Key featu
 - **JSON Export:** Export all leads to a JSON file and share it.
 - **Simple UI Animations:** Subtle animations for a better user experience.
 
+## Demo
+
+
+
+```html
+<video controls width="720">
+  <source src="https://raw.githubusercontent.com/Harshi1Shetty/Lead_manager_FlutterApp/main/assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
+
+
 ## How to Run
 
 1.  **Clone the repository:**
@@ -39,7 +51,7 @@ This is a mini-application designed to manage sales or business leads. Key featu
 
 The app follows a simple and scalable architecture pattern using the `provider` package for state management.
 
--   **`main.dart`**: The entry point of the application. It sets up `MultiProvider` to make the `LeadProvider` and `ThemeProvider` available throughout the widget tree. It also configures the light and dark themes.
+-   **`main.dart`**: The entry point of the application. It sets up `MultiProvider` to make the `LeadProvider` and `ThemeProvider` available throughout the widget tree. It also configures the light and dark themes used across the app.
 
 -   **`providers/`**: This directory holds the application's state.
     -   `lead_provider.dart`: Manages the state of the leads, including loading, adding, updating, deleting, searching, and exporting. It communicates with the `DatabaseHelper` to persist data.
